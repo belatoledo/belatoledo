@@ -1,16 +1,24 @@
-### Hi there 👋
+<h3 align="center"> Hello there, eu sou a Izabela! :sunflower:</h3>
+<h5 align="center"> Resolvedora de problemas amadora, curiosa e apaixonada por código. <br/> 
+ Sou padawan em Desenvolvimento Front-end e pretendo me tornar Fullstack :computer:</h5> 
 
-<!--
-**belatoledo/belatoledo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+<img src="https://camo.githubusercontent.com/cdbee60d64689371b2b2f9438037116e9fe7ee74/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4c3152317476493973766b495777705659722f67697068792e676966" alt="Animação"/>
+</p>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ <p align="justify"> :rocket:  &nbsp; Estou em transição de carreira :) Estudando na Rocketseat enquanto trabalho com Contabilidade :moneybag:
+ <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end 
+ <br/> :sos: &nbsp; Preciso de um pouquinho de ajuda com flexbox e JavaScript 
+ <br/> :computer: &nbsp; Minha stack: JavasScript e em processo de aprendizado com o ReactJS
+ <br/> 💬  &nbsp; Sobre mim: Além de tecnologia, amo livros, séries & filmes! Quando não estou estudando, estou in game: GW2, LoL & Smite :) </p>
+ 
+
+<p align="left">  :love_letter:  Contato:
+ 
+[![Linkedin Badge](https://img.shields.io/badge/-IzabelaToledo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/izabela-toledo/)](https://www.linkedin.com/in/izabela-toledo/) 
+[![Gmail Badge](https://img.shields.io/badge/-it.amancio@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:it.amancio@gmail.com)](mailto:it.amancio@gmail.com)
+[![Rocketseat Badge](https://img.shields.io/badge/-Rocketseat-000?style=flat-square&logo=&logoColor=white&link=https:https://app.rocketseat.com.br/me/izabela-amancio-1578955453)](https://app.rocketseat.com.br/me/izabela-amancio-1578955453)
+
+</p>
+
