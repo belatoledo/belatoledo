@@ -10,7 +10,7 @@
  <p align="justify"> :rocket:  &nbsp; Estou em transição de carreira :) Estudando na Rocketseat enquanto trabalho com Contabilidade :moneybag:
  <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end 
  <br/> :sos: &nbsp; Preciso de um pouquinho de ajuda com flexbox e JavaScript 
- <br/> :computer: &nbsp; Minha stack: JavasScript e em processo de aprendizado com o ReactJS
+ <br/> :computer: &nbsp; Minha stack: JavasScript e em breve pretendo me dedicar ao aprendizado do ReactJS
  <br/> 💬  &nbsp; Sobre mim: Além de tecnologia, amo livros, séries & filmes! Quando não estou estudando, estou in game: GW2, LoL & Smite :) </p>
  
 
