@@ -17,7 +17,7 @@
 <p align="left">  :love_letter:  Contato:
  
 [![Linkedin Badge](https://img.shields.io/badge/-IzabelaToledo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/izabela-toledo/)](https://www.linkedin.com/in/izabela-toledo/) 
-[![Gmail Badge](https://img.shields.io/badge/-it.amancio@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:it.amancio@gmail.com)](mailto:it.amancio@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-devgirl.bela@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:devgirl.bela@gmail.com)](mailto:devgirl.bela@gmail.com)
 [![Rocketseat Badge](https://img.shields.io/badge/-Rocketseat-000?style=flat-square&logo=&logoColor=white&link=https:https://app.rocketseat.com.br/me/izabela-amancio-1578955453)](https://app.rocketseat.com.br/me/izabela-amancio-1578955453)
 
 </p>
