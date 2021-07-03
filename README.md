@@ -18,6 +18,9 @@
  
 [![Linkedin Badge](https://img.shields.io/badge/-IzabelaToledo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/izabela-toledo/)](https://www.linkedin.com/in/izabela-toledo/) 
 [![Gmail Badge](https://img.shields.io/badge/-devgirl.bela@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:devgirl.bela@gmail.com)](mailto:devgirl.bela@gmail.com)
+ <a href="https://www.instagram.com/devgirl.bela/" target="_blank">
+	<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram">
+</a>
 [![Rocketseat Badge](https://img.shields.io/badge/-Rocketseat-000?style=flat-square&logo=&logoColor=white&link=https:https://app.rocketseat.com.br/me/izabela-amancio-1578955453)](https://app.rocketseat.com.br/me/izabela-amancio-1578955453)
 
 </p>
