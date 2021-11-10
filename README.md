@@ -1,17 +1,17 @@
 <h3 align="center"> Hello there, eu sou a Izabela! :sunflower:</h3>
 <h5 align="center"> Resolvedora de problemas amadora, curiosa e apaixonada por código. <br/> 
- Sou padawan em Desenvolvimento Front-end e pretendo me tornar Fullstack :computer:</h5> 
+ Sou padawan em Desenvolvimento Front-end e pretendo me tornar uma mestra Jedi :computer:</h5> 
 
 <p align="center">
 <img src="https://camo.githubusercontent.com/cdbee60d64689371b2b2f9438037116e9fe7ee74/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4c3152317476493973766b495777705659722f67697068792e676966" alt="Animação"/>
 </p>
 
 
- <p align="justify"> :rocket:  &nbsp; Estou em transição de carreira :) Estudando na Rocketseat enquanto trabalho com Contabilidade :moneybag:
- <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end 
- <br/> :sos: &nbsp; Preciso de um pouquinho de ajuda com flexbox e JavaScript 
- <br/> :computer: &nbsp; Minha stack: JavasScript e em breve pretendo me dedicar ao aprendizado do ReactJS
- <br/> 💬  &nbsp; Sobre mim: Além de tecnologia, amo livros, séries & filmes! Quando não estou estudando, estou in game: GW2, LoL & Smite :) </p>
+ <p align="justify"> :rocket:  &nbsp; Desenvolvedora Front-end Junior na Arithmos Contabilidade Online :moneybag:
+ <br/> :purple_heart: &nbsp; Freelancer em projetos em Front-end 
+ <br/> :sos: &nbsp; Estudando muito JavaScript, Vuejs e de vez em quando um pouco de UI Design 
+ <br/> :computer: &nbsp; Minha stack: JavasScript com Vuejs & Tailwind
+ <br/> 💬  &nbsp; Sobre mim: Além de tecnologia, amo livros, séries & filmes! </p>
  
 
 <p align="left">  :love_letter:  Contato:
