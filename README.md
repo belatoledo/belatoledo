@@ -9,7 +9,7 @@
 
  <p align="justify"> :rocket:  &nbsp; Engenheira Front-end Junior na KC Tecnologia 
  <br/> :sos: &nbsp; Estudando muito JavaScript, Vuejs e de vez em quando um pouco de UI Design 
- <br/> :computer: &nbsp; Minha stack: JavasScript com Vuejs & Tailwind
+ <br/> :computer: &nbsp; Minha stack: JavasScript com Vuejs, Nuxt & Tailwind
  <br/> 💬  &nbsp; Sobre mim: Além de tecnologia, amo livros, séries & filmes! </p>
  
 
