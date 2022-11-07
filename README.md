@@ -7,7 +7,7 @@
 </p>
 
 
- <p align="justify"> :rocket:  &nbsp; Engenheira Front-end Junior
+ <p align="justify"> :rocket:  &nbsp; Desenvolvedora Front-end Junior
  <br/> :sos: &nbsp; Estudando muito JavaScript, Vuejs e de vez em quando um pouco de UI Design 
  <br/> :computer: &nbsp; Minha stack: JavasScript com Vuejs, Nuxt & Tailwind
  <br/> 💬  &nbsp; Sobre mim: Além de tecnologia, amo livros, séries & filmes! </p>
