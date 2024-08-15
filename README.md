@@ -3,7 +3,7 @@
  Sou padawan em Desenvolvimento Front-end e pretendo me tornar uma mestra Jedi :computer:</h5> 
 
 <p align="center">
-<img src="https://camo.githubusercontent.com/cdbee60d64689371b2b2f9438037116e9fe7ee74/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4c3152317476493973766b495777705659722f67697068792e676966" alt="Animação"/>
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExamR6Ym8ycWQ1andvMnJ4N2hkdjl2d21nc2hzdHBqOHhxbzFlaG55MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.webp" alt="Animação"/>
 </p>
 
 
