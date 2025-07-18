@@ -35,8 +35,8 @@ My focus as a developer is to maximize the user experience without compromising 
 - 📚 **Bachelor of Accounting** - PUC Minas (2014 - 2018)
 
 ## 🔥 Highlights & Projects
-- 👩‍💻 **Personal blog**: Developing my blog to talk about development, career, and the randomness of life
-- 🏅 **Space Squad Ambassador**: Recognition for participating in the development community and helping and mentoring new devs (2021-2023)
+- 👩‍💻 **Personal blog**: Currently, I'm developing my blog to talk about development, career, and the randomness of life
+- 🏅 **Space Squad Ambassador**: Recognition for participating in the development community and helping and mentoring new devs
 - 📱 **Content creator**: Talk about code and career on Instagram to help women in career transition to technology (2021-2024)
 
 <br><br>
