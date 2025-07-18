@@ -16,4 +16,32 @@
     interests: ["Code", "Food", "Movies"]
 };
 ```
+## 🎯 About Me
+Software Engineer with over 4 years of experience in front-end development, specializing in the development and maintenance of responsive, accessible, and high-performance interfaces in web applications.
+My focus as a developer is to maximize the user experience without compromising application scalability, performance, and stability. I believe that success is built gradually through focus, discipline, commitment, and continuous knowledge sharing, fostering growth.
 
+
+## 💻 Technical Skills - Key Competencies
+- **Core**: `JavaScript`, `TypeScript`,  `HTML`, `CSS`, `SASS`
+- **Frameworks and libs**: `React`, `Next.js`, `Vue`, `Nuxt.js`
+- **UI libs**: `Tailwind`, `Material UI`, `Vuetify`, `Quasar`, `Bootstrap`
+- **Tests**: `Jest`, `Cypress`
+- **Version control**: `Git`, `GitHub`, `BitBucket`
+- **CI/CD**: `GitHub Actions`
+- **Methodologies**: `SCRUM`, `Agile`, `SOLID`
+
+## 🎓 Education
+- 📚 **Computer Science Undergraduate** - Estácio (2023 - 2027)
+- 📚 **Bachelor of Accounting** - PUC Minas (2014 - 2018)
+
+## 🔥 Highlights & Projects
+- 👩‍💻 **Personal blog**: Developing my blog to talk about development, career, and the randomness of life
+- 🏅 **Space Squad Ambassador**: Recognition for participating in the development community and helping and mentoring new devs (2021-2023)
+- 📱 **Content creator**: Talk about code and career on Instagram to help women in career transition to technology (2021-2024)
+
+<br><br>
+#### <p align="right">Thank you for visiting. Enjoy my repositories! 💖</p>
+
+<div align="right">
+  <img src="https://github.com/belatoledo/belatoledo/blob/master/signature" alt="Izabela"/>
+</div>
